@@ -5,9 +5,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/alifshelviano/googlecloud/master/collmatrics.sh
-
-sudo chmod +x collmatrics.sh
-
-./collmatrics.sh
+curl -LO raw.githubusercontent.com/alifshelviano/googlecloud/blob/master/NLP-API-Qwikstart/cloud.sh
+sudo chmod +x cloud.sh
+./cloud.sh
 ```
